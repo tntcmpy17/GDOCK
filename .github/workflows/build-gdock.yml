@@ -3,12 +3,12 @@
 #   Author: JK
 #=================================================
 
-name: Build G-DOCK
+name: Build G-DOCk
 
 on: 
   release:
     types: [published]
-  push:
+push:
     branches: 
       - master
 
